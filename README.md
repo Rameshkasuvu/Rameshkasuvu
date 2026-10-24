@@ -1,109 +1,108 @@
+# Ramesh Kasuvu
 
-# Hi, I'm Ramesh 👋
+### Cloud & DevOps Engineer | Python | AWS | Automation
 
-**Aspiring Cloud & DevOps Engineer | Python Developer**
+I focus on cloud infrastructure, automation, containerization, and reliable software delivery. My technical foundation spans Linux administration, Python scripting, AWS cloud services, CI/CD pipelines, Infrastructure as Code, and container orchestration.
 
-I'm building practical skills in cloud infrastructure, Linux,
-automation, and application deployment. My focus is on learning
-by building projects, documenting my work, and improving through
-hands-on troubleshooting.
+I enjoy understanding how applications move from development to deployment and how automation makes infrastructure more reliable, repeatable, and maintainable.
 
-- 🎯 **Career goal:** Junior DevOps Engineer / Cloud Engineer
-- 🐍 **Primary language:** Python
-- ☁️ **Current focus:** AWS, Linux, Git, and Bash scripting
-- 🚀 **Current project:** Python Flask application for AWS deployment
+[![GitHub](https://img.shields.io/badge/GitHub-Rameshkasuvu-181717?style=for-the-badge&logo=github)](https://github.com/Rameshkasuvu)
 
 ---
 
-## Technical Skills
+## TECHNICAL TOOLKIT
 
-### Hands-on practice
-- **Programming:** Python
-- **Web development:** Flask
-- **Version control:** Git, GitHub
-- **Development tools:** VS Code, Python virtual environments
+### ☁️ Cloud Computing
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-### Currently learning
-- Linux administration and Bash scripting
-- AWS compute, networking, and security fundamentals
-- Docker and containerization
-- CI/CD with GitHub Actions
-- Terraform and infrastructure as code
-- Kubernetes fundamentals
+### ⚙️ DevOps & CI/CD
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 
-*Skills are listed according to my current learning stage.
-I continue to update this section as I gain practical experience.*
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
----
+### 🏗️ Infrastructure as Code & Configuration
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
-## Featured Project
+### 🐧 Operating Systems & Scripting
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Python Flask Application — AWS Deployment
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-A practical project focused on preparing a Flask application
-for deployment to AWS.
-
-**Repository:** [aws-python-deployment](https://github.com/Rameshkasuvu/aws-python-deployment)
-
-**Implemented so far**
-- Created and ran a Flask application locally.
-- Set up a Python virtual environment.
-- Managed dependencies using `requirements.txt`.
-- Practiced Git branches, commits, and GitHub pushes.
-- Added a `.gitignore` for environment and cache files.
-
-**Next milestones**
-- Add automated application tests.
-- Configure a CI workflow using GitHub Actions.
-- Deploy and verify the application on AWS.
-- Document architecture, security, and troubleshooting.
+### 🔧 Build & Quality Tools
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-126ED3?style=flat-square&logo=sonarqube&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
-## My DevOps Roadmap
+## 🧠 CORE ENGINEERING AREAS
 
-- [x] Git and GitHub fundamentals
-- [x] Python virtual environments and dependency management
-- [x] Run a Flask application locally
-- [ ] Linux administration and shell scripting practice
-- [ ] Deploy the Flask application on AWS
-- [ ] Containerize the application using Docker
-- [ ] Implement automated testing and CI/CD
-- [ ] Provision AWS infrastructure using Terraform
-- [ ] Practice Kubernetes deployment fundamentals
-
-*Roadmap items are updated as I complete each milestone.*
+- **Cloud infrastructure:** Compute, storage, networking, access management, and cloud security fundamentals.
+- **Automation:** Python, Bash, and repeatable operational workflows.
+- **CI/CD:** Source control, automated builds, testing, and deployment pipelines.
+- **Containers:** Image creation, container lifecycle management, and Kubernetes fundamentals.
+- **Infrastructure as Code:** Provisioning and managing infrastructure through version-controlled configuration.
+- **Observability:** Metrics, dashboards, monitoring, and troubleshooting.
+- **Linux administration:** Command-line operations, permissions, processes, services, and system troubleshooting.
 
 ---
 
-## Future Portfolio Projects
+## 🚀 PROJECT PORTFOLIO
 
-1. **Containerized Flask Application**
-   - Docker, automated tests, GitHub Actions.
+My portfolio is being developed around practical cloud and DevOps implementations.
 
-2. **AWS Infrastructure as Code**
-   - Terraform, AWS networking, security, and resource cleanup.
+**Areas of focus**
+- Python application deployment on AWS.
+- Containerized applications and automated CI/CD pipelines.
+- AWS infrastructure provisioning using Terraform.
+- Kubernetes deployments and application monitoring.
 
-3. **Automated Deployment Pipeline**
-   - CI/CD, deployment validation, logging, and troubleshooting.
-
-These projects will be added as they are implemented and documented.
-
----
-
-## GitHub Activity
-
-Explore my repositories and contributions:
-
-[![GitHub profile](https://img.shields.io/badge/GitHub-Rameshkasuvu-181717?style=flat-square&logo=github)](https://github.com/Rameshkasuvu)
+> Individual repositories, implementation details, architecture diagrams, and results will be linked here as each project becomes available.
 
 ---
 
-## Connect
+## 📈 GITHUB ACTIVITY
 
-- **GitHub:** [Rameshkasuvu](https://github.com/Rameshkasuvu)
-- **LinkedIn:** Add your actual profile URL when ready.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rameshkasuvu&show_icons=true&hide_title=true&hide_rank=true&theme=github_dark&hide_border=true)](https://github.com/Rameshkasuvu)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshkasuvu&layout=compact&theme=github_dark&hide_border=true)](https://github.com/Rameshkasuvu?tab=repositories)
+
+*Statistics are provided by a third-party service and may be delayed or unavailable.*
 
 ---
 
-*Learning by building. Improving through practice.*
+## 🎯 PROFESSIONAL FOCUS
+
+My goal is to contribute to Cloud and DevOps teams by helping automate infrastructure, improve deployment workflows, support reliable application delivery, and build repeatable operational processes.
+
+I value continuous learning, clear documentation, systematic troubleshooting, and practical engineering solutions.
+
+---
+
+## 🤝 LET'S CONNECT
+
+- **GitHub:** [@Rameshkasuvu](https://github.com/Rameshkasuvu)
+- **LinkedIn:** Add your professional LinkedIn profile URL here.
+- **Email:** Add your professional contact email here.
+
+---
+
+<p align="center">
+  <i>Automate the repeatable. Monitor the critical. Keep learning.</i>
+</p>
