@@ -1,130 +1,108 @@
 
 # Hi, I'm Ramesh 👋
 
-### Aspiring Cloud & DevOps Engineer | Python Developer
+**Aspiring Cloud & DevOps Engineer | Python Developer**
 
-I'm an entry-level technology professional building practical skills in
-cloud computing, automation, Linux administration, and DevOps.
+I'm building practical skills in cloud infrastructure, Linux,
+automation, and application deployment. My focus is on learning
+by building projects, documenting my work, and improving through
+hands-on troubleshooting.
 
-My current focus is learning how to develop, deploy, and maintain
-applications using Python, AWS, Git, and modern DevOps tools.
-
-- 🌱 Currently learning Linux, AWS, Shell Scripting, and DevOps fundamentals
-- 🐍 Primary programming language: Python
-- ☁️ Career goal: Junior DevOps Engineer / Cloud Engineer
-- 🔧 Current project: Python Flask application for AWS deployment
-- 📚 Focused on hands-on projects, troubleshooting, and continuous learning
+- 🎯 **Career goal:** Junior DevOps Engineer / Cloud Engineer
+- 🐍 **Primary language:** Python
+- ☁️ **Current focus:** AWS, Linux, Git, and Bash scripting
+- 🚀 **Current project:** Python Flask application for AWS deployment
 
 ---
 
-## 🛠️ Technologies
+## Technical Skills
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+### Hands-on practice
+- **Programming:** Python
+- **Web development:** Flask
+- **Version control:** Git, GitHub
+- **Development tools:** VS Code, Python virtual environments
 
-### Development & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+### Currently learning
+- Linux administration and Bash scripting
+- AWS compute, networking, and security fundamentals
+- Docker and containerization
+- CI/CD with GitHub Actions
+- Terraform and infrastructure as code
+- Kubernetes fundamentals
 
-### Cloud & DevOps Learning
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-
-**Note:** Badges represent technologies I work with or am learning;
-they do not imply professional mastery of every tool.
+*Skills are listed according to my current learning stage.
+I continue to update this section as I gain practical experience.*
 
 ---
 
-## 🚀 Featured Projects
+## Featured Project
 
-### 1. Python Flask Application — AWS Deployment
+### Python Flask Application — AWS Deployment
 
-A hands-on project focused on preparing a Python Flask application
-for cloud deployment.
+A practical project focused on preparing a Flask application
+for deployment to AWS.
 
-**Technologies:** Python, Flask, Git, GitHub, pip, virtual environments
+**Repository:** [aws-python-deployment](https://github.com/Rameshkasuvu/aws-python-deployment)
 
+**Implemented so far**
+- Created and ran a Flask application locally.
 - Set up a Python virtual environment.
-- Manage application dependencies with `requirements.txt`.
-- Use Git branches and commits to manage source code.
-- Prepare the application for deployment.
+- Managed dependencies using `requirements.txt`.
+- Practiced Git branches, commits, and GitHub pushes.
+- Added a `.gitignore` for environment and cache files.
 
-[View Repository](https://github.com/Rameshkasuvu/aws-python-deployment)
-
-**Next milestone:** Document and verify the AWS deployment process,
-including security, application access, and troubleshooting.
-
-### 2. DevOps Learning Repository
-
-A structured collection of practical exercises covering Linux,
-Bash scripting, Git, GitHub, and cloud fundamentals.
-
-**Status:** Add this section after creating a dedicated repository
-and publishing documented exercises.
-
-### 3. Docker and CI/CD Project
-
-A planned project to containerize a Python application and automate
-testing and deployment using a CI/CD pipeline.
-
-**Status:** Planned — implementation and results will be documented
-after completion.
+**Next milestones**
+- Add automated application tests.
+- Configure a CI workflow using GitHub Actions.
+- Deploy and verify the application on AWS.
+- Document architecture, security, and troubleshooting.
 
 ---
 
-## 📈 My DevOps Learning Journey
+## My DevOps Roadmap
 
-- [x] Practice Git and GitHub workflows
-- [x] Create a Python virtual environment
-- [x] Build and run a Flask application locally
-- [x] Manage Python dependencies
-- [ ] Strengthen Linux administration and Bash scripting
-- [ ] Deploy and verify a Flask application on AWS
-- [ ] Containerize an application using Docker
-- [ ] Build a CI/CD pipeline
-- [ ] Provision infrastructure using Terraform
-- [ ] Practice Kubernetes fundamentals
+- [x] Git and GitHub fundamentals
+- [x] Python virtual environments and dependency management
+- [x] Run a Flask application locally
+- [ ] Linux administration and shell scripting practice
+- [ ] Deploy the Flask application on AWS
+- [ ] Containerize the application using Docker
+- [ ] Implement automated testing and CI/CD
+- [ ] Provision AWS infrastructure using Terraform
+- [ ] Practice Kubernetes deployment fundamentals
 
-I update these milestones as I complete and document the work.
-
----
-
-## 📊 GitHub Activity
-
-My repositories and contribution history show my ongoing progress
-in software development and DevOps.
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rameshkasuvu&show_icons=true&hide_title=true&hide_rank=true)](https://github.com/Rameshkasuvu)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rameshkasuvu&layout=compact&langs_count=6)](https://github.com/Rameshkasuvu)
-
-*Statistics are generated by a third-party service and may be delayed
-or temporarily unavailable.*
+*Roadmap items are updated as I complete each milestone.*
 
 ---
 
-## 🎯 Career Objective
+## Future Portfolio Projects
 
-I am working toward an entry-level Cloud or DevOps engineering role
-where I can contribute to automation, application deployment,
-infrastructure management, and reliable software delivery.
+1. **Containerized Flask Application**
+   - Docker, automated tests, GitHub Actions.
 
-I aim to demonstrate my skills through practical projects,
-clear documentation, and reproducible implementations.
+2. **AWS Infrastructure as Code**
+   - Terraform, AWS networking, security, and resource cleanup.
+
+3. **Automated Deployment Pipeline**
+   - CI/CD, deployment validation, logging, and troubleshooting.
+
+These projects will be added as they are implemented and documented.
 
 ---
 
-## 🤝 Connect With Me
+## GitHub Activity
 
-- GitHub: [@Rameshkasuvu](https://github.com/Rameshkasuvu)
-- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
-- Email: Add your professional contact email
+Explore my repositories and contributions:
+
+[![GitHub profile](https://img.shields.io/badge/GitHub-Rameshkasuvu-181717?style=flat-square&logo=github)](https://github.com/Rameshkasuvu)
+
+---
+
+## Connect
+
+- **GitHub:** [Rameshkasuvu](https://github.com/Rameshkasuvu)
+- **LinkedIn:** Add your actual profile URL when ready.
 
 ---
 
